@@ -6,7 +6,7 @@ Code for reproducing the key results of our NIPS 2015 paper on semi-supervised l
 Bzdok D, Eickenberg M, Grisel O, Thirion B, Varoquaux G.
 **Semi-supervised Factored Logistic Regression for High-Dimensional Neuroimaging Data**
 Advances in Neural Information Processing Systems (**NIPS 2015**), Montreal.
-[https://www.researchgate.net/publication/281490102_Semi-Supervised_Factored_Logistic_Regression_for_High-Dimensional_Neuroimaging_Data](Paper on ResearchGate)
+[Paper on ResearchGate](https://www.researchgate.net/publication/281490102_Semi-Supervised_Factored_Logistic_Regression_for_High-Dimensional_Neuroimaging_Data)
 
 Please cite this paper when using this code for your research.
 
