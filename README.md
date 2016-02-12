@@ -8,9 +8,9 @@ Bzdok D, Eickenberg M, Grisel O, Thirion B, Varoquaux G.
 Advances in Neural Information Processing Systems (**NIPS 2015**), Montreal.
 [Paper on ResearchGate](https://www.researchgate.net/publication/281490102_Semi-Supervised_Factored_Logistic_Regression_for_High-Dimensional_Neuroimaging_Data)
 
-Please cite this paper when using this code for your research.
+Please cite this paper when using the code for your research.
 
-To follow established conventions of scikit-learn estimators, the SSEncoder class exposes the functions fit(), predict(), and score().
+To follow established conventions of scikit-learn estimators, the ``SSEncoder`` class exposes the functions fit(), predict(), and score().
 This should allow for seamless integration into other scikit-learn-enabled machine-learning pipelines.
 
 For questions and bug reports, please send me an e-mail at _danilobzdok[at]gmail.com_.
